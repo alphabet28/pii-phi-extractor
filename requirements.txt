@@ -1,0 +1,12 @@
+presidio-analyzer>=0.7.1
+presidio-anonymizer>=0.7.1
+spacy>=3.5.0
+python-docx>=0.8.11
+openpyxl>=3.0.0
+pdfplumber>=0.9.0
+pdfminer.six>=20221105
+extract-msg>=0.46.0
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+streamlit>=1.28.0
+pandas>=1.5.0

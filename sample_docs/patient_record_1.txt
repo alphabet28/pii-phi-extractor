@@ -1,0 +1,24 @@
+Patient Record - John Smith
+Date of Birth: 03/15/1975
+Medical Record Number: MRN123456789
+Patient ID: 987654321
+
+Medical History:
+The patient presented with symptoms consistent with ICD10 code E11.9 (Type 2 diabetes mellitus without complications).
+
+Contact Information:
+Email: john.smith@example.com
+Phone: 555-123-4567
+Address: 123 Oak Street, Portland, OR 97201
+
+Insurance Information:
+Insurance Provider: Blue Cross Blue Shield
+Member ID: BC567890123
+Group Number: GRP001
+
+Previous Treatment:
+Patient was treated for hypertension (ICD10: I10) in 2020.
+
+Provider Notes:
+SSN: 456-78-9012
+Date of Birth: 03/15/1975

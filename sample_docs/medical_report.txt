@@ -1,0 +1,23 @@
+MEDICAL IMAGING REPORT
+
+Patient: Robert Johnson
+DOB: 12/03/1960
+MRN: IMG456789012
+
+Procedure: CT Scan of Abdomen
+Date Performed: 2024-03-15
+
+Findings:
+The CT images reveal findings consistent with ICD10 code K80.0 (Calculus of gallbladder with acute cholecystitis).
+
+Additional notes indicate the patient has a history of Z12.11 (Encounter for screening for malignant neoplasm of colon).
+
+Contact Information:
+Primary Care Physician: Dr. Sarah Mitchell
+Office Phone: 503-555-2020
+Patient Portal Email: robert.johnson@patientportal.com
+Insurance Member ID: BCBS-98765432
+
+IP Address for telemedicine: 192.168.1.100
+
+The patient's treatment plan was discussed via phone: 555-234-5678
