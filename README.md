@@ -5,6 +5,12 @@ A comprehensive, cost-effective Python pipeline for detecting and extracting Per
 
 <img width="1918" height="977" alt="image" src="https://github.com/user-attachments/assets/9ab16023-e230-4296-95d7-015089081c20" />
 
+<img width="1918" height="966" alt="image" src="https://github.com/user-attachments/assets/b0ddb2a5-1024-4bcd-9191-363722cdf0d7" />
+
+<img width="1918" height="975" alt="image" src="https://github.com/user-attachments/assets/ee5e555e-0d70-4dda-8a92-b9c8fdecc5fd" />
+
+<img width="1918" height="915" alt="image" src="https://github.com/user-attachments/assets/c5d666e0-a483-42f1-a94b-1625c9fd8cc9" />
+
 ## Overview
 
 This pipeline implements a **two-pass design** that keeps compute costs manageable at scale:
