@@ -2,6 +2,9 @@
 
 A comprehensive, cost-effective Python pipeline for detecting and extracting Personally Identifiable Information (PII) and Protected Health Information (PHI) from millions of documents without relying on paid APIs or cloud services.
 
+
+<img width="1918" height="977" alt="image" src="https://github.com/user-attachments/assets/9ab16023-e230-4296-95d7-015089081c20" />
+
 ## Overview
 
 This pipeline implements a **two-pass design** that keeps compute costs manageable at scale:
